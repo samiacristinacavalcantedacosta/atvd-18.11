@@ -1,0 +1,29 @@
+
+  
+ .letra{
+margin-left: 100px;
+margin-top: 40px;;
+ } 
+ .banner{
+    background-image: url("./assents/WhatsApp\ Image\ 2024-08-08\ at\ 14.25.00\ 1\ \(1\).png");
+    height:400px ;
+    width: 100%;
+ }
+.lista{
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    flex-direction: row;
+    width: 400px;
+}
+.menu{
+    display: flex;
+    justify-content: space-around;
+    align-items: end;
+    flex-direction: row;
+}
+.titilo{
+    display: flex;
+    
+}
